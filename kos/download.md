@@ -3,4 +3,4 @@
 ### Información:
 - Versión: 1.3.2.0
 - Tamaño: 2.95 MB
-- Tipo: Commpressed Archive (.ZIP)
+- Tipo: Compressed Archive (.ZIP)
