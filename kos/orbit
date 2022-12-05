@@ -1,0 +1,29 @@
+Código (no comprobado)
+
+// Secuencia de lanzamiento
+lock throttle to 1.
+wait 1.
+stage.
+
+// Esperando para comenzar el giro
+wait until vessel:verticalspeed = 98.0.
+sas on.
+set sasmode to prograde.
+
+// Continúa acelerando hasta alcanzar una altura estable
+wait until apoapsis:alt = 70.000.
+lock throttle to 0.6.
+
+// Corrigiendo a una órbita segura
+wait until apoapsis:alt = 80.000.
+lock throttle to 0.0.
+stage.
+
+// Creación de la maniobra
+set orbitnode to node(timespan(0,0,0,0,apoapsis:eta),0,0,1900).
+add orbitnode.
+
+
+lock steering to maneuver.
+wait until maneuvernode:eta = 0
+lock throttle to 1.0.
