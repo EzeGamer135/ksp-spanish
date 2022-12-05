@@ -11,11 +11,11 @@ sas on.
 set sasmode to prograde.
 
 // Continúa acelerando hasta alcanzar una altura estable
-wait until apoapsis:alt = 70000.
+wait until alt:apoapsis = 70000.
 lock throttle to 0.6.
 
 // Corrigiendo a una órbita segura
-wait until apoapsis:alt = 80000.
+wait until alt:apoapsis = 80000.
 lock throttle to 0.0.
 stage.
 
@@ -29,8 +29,8 @@ print "Perigeo final: " + orbitnode:orbit:periapsis.
 lock steering to maneuver.
 wait until maneuvernode:eta = 0
 lock throttle to 1.0.
-wait until periapsis:alt > 70000.
+wait until alt:periapsis > 70000.
 lock throttle to 0.6.
-wait until periapsis:alt > 80000.
+wait until alt:periapsis > 80000.
 lock throttle to 0.0.
 print "Orbit reached.".
