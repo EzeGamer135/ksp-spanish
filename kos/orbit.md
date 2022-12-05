@@ -1,5 +1,6 @@
-Código (no comprobado)
+### Comprobado: :x:
 
+```
 // Secuencia de lanzamiento
 lock throttle to 1.
 wait 1.
