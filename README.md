@@ -14,7 +14,7 @@ Obviamente, si tu nave es más grande, necesitarás más litros de combustible p
 
 Bien, ¿dónde quieres ir? Sea cual sea tu destino, deberías echarle un vistazo a un mapa de Delta-V:
 
-![](https://external-preview.redd.it/OvaryQ1rSGJXs6mXjoB6ESs0DRvmFDlXzNs81rRhk9Q.jpg?auto=webp&s=18c5fc8b493d954971f04e66976f974bec33cf64)
+![](https://i.imgur.com/yO0bQax.png)
 
 Imagina que quieres construir un cohete capaz de alunizar en Minmus. Para realizar las maniobras necesarias, deberás gastar la siguiente cantidad de delta-v :
 
