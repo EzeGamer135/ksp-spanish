@@ -3,6 +3,10 @@
 - Tamaño: 2,95GB
 - Tipo: ISO
 - Versión: 1.12.4
+- Incluye:
+  - DLC: Breaking Ground Expansion
+  - DLC: Making History Expansion
+
 ### Requisitos Mínimos
 - Sistema Operativo: Windows
 - Procesador: Core 2 Duo
