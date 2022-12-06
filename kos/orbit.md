@@ -34,4 +34,4 @@ wait until alt:periapsis > 70000.
 lock throttle to 0.6.
 wait until alt:periapsis > 80000.
 lock throttle to 0.0.
-print "Orbit reached.".
+print "Órbita completada.".
