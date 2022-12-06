@@ -21,7 +21,7 @@
 - Tarjeta Gráfica: 1GB de VRAM
 - Espacio Libre en el Disco Duro: 2GB
 
-## [Ver tráiler (YouTube](https://youtu.be/0E4TDYmyBq8)
+## [Ver tráiler (YouTube)](https://youtu.be/0E4TDYmyBq8)
 
 # Cómo empezar en Kerbal Space Program
 
