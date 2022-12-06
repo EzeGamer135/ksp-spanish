@@ -12,4 +12,4 @@
 7. Selecciona GameData
 8. Selecciona Aceptar.
 
-![image](https://user-images.githubusercontent.com/73393487/205958202-0665b6cc-f139-45f5-940a-548cdf80b0a9.png)
+![image](https://user-images.githubusercontent.com/73393487/205958531-8c8cca38-1fbb-4fea-94d6-61aee800b6e9.png)
