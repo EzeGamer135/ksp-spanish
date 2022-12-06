@@ -1,6 +1,6 @@
 # Kerbal Space Program
 
-**Kerbal Space Program** es un amplio juego que te permite hacer lo que deses donde tu imaginación sera la gran protagonista en este simulador de carrera espacial con una mezcla muy bien nivelada de realismo y accesibilidad. ¿Quieres mandar un kerbal (astronauta) al espacio? Muy bien, pues prepara un buen cohete y lidia con las leyes de la física para conseguirlo.
+**Kerbal Space Program** es un amplio juego que te permite hacer lo que deses donde tu imaginación sera la gran protagonista en este simulador de carrera espacial con una mezcla muy bien nivelada de realismo y accesibilidad. ¿Quieres mandar un *kerbal* (astronauta) al espacio? Muy bien, pues prepara un buen cohete y lidia con las leyes de la física para conseguirlo.
 
 ![](https://images.ctfassets.net/wn7ipiv9ue5v/66fvYUNuJCcVvxe51JgaLp/0f6bad2015dfb76437f5aaad37b39660/ksp_keyart_late_2018_flattened-no-logo.jpg)
 ## [Descargar](https://a-3.1fichier.com/c381850530)
