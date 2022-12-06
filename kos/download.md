@@ -15,4 +15,4 @@
 9. Busca GameData.
 10. Pega los archivos del paso 6.
 
-![image](https://user-images.githubusercontent.com/73393487/205961390-751c668e-ec2c-45ec-bc82-a6d63d73a2bc.png)
+![image](https://user-images.githubusercontent.com/73393487/205980725-8e0d505a-fe76-4958-b668-a9367bf6679a.png)
