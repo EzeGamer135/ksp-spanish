@@ -3,7 +3,7 @@
 - Tamaño: 2.95 MB
 - Tipo: Compressed Archive (.ZIP)
 ### Instrucciones:
-1. Descargar e instalar [WinRar](https://www.winrar.es/descargas/103/descargar-winrar-para-windows-x64-en-espanol) (Saltea este paso si ya lo tienes)
+1. Descargar e instalar [WinRar](https://d.winrar.es/d/103z1670348916/fwRY_a4tNsmNEUo8Jmg2fw/winrar-x64-611es.exe) (Saltea este paso si ya lo tienes)
 2. Descargar [kOS](http://download1529.mediafire.com/c4431uady4ig/9za9igcarz7y5m7/kOS-v1.3.2.0.zip)
 3. Ve a la dirección del archivo de kOS.
 4. Selecciona el archivo (click izquierdo) > Click derecho sobre el archivo
