@@ -1,4 +1,5 @@
 # Kerbal Space Program
+![](https://images.ctfassets.net/wn7ipiv9ue5v/66fvYUNuJCcVvxe51JgaLp/0f6bad2015dfb76437f5aaad37b39660/ksp_keyart_late_2018_flattened-no-logo.jpg)
 ## [Descargar](https://a-3.1fichier.com/c381850530)
 - Tamaño: 2,95GB
 - Tipo: ISO
