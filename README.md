@@ -1,4 +1,23 @@
 # Kerbal Space Program
+## [Descargar](https://a-3.1fichier.com/c381850530)
+- Tamaño: 2,95GB
+- Tipo: ISO
+- Versión: 1.12.4
+### Requisitos Mínimos
+- Sistema Operativo: Windows
+- Procesador: Core 2 Duo
+- Memoria RAM: 3GB
+- Tarjeta Gráfica: 512MB de VRAM
+- Espacio Libre en el Disco Duro: 1GB
+
+### Requisitos Recomendados
+- Sistema Operativo: Windows
+- Procesador: Core i3
+- Memoria RAM: 4GB
+- Tarjeta Gráfica: 1GB de VRAM
+- Espacio Libre en el Disco Duro: 2GB
+
+# Cómo empezar en Kerbal Space Program
 
 ## Delta-V
 ### ¿Qué es el Delta-V?
